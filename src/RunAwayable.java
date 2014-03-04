@@ -41,8 +41,5 @@ public class RunAwayable {
 			System.out.println(p1);
 			System.out.println(p2);
 		}
-		else {
-			System.err.println("a and b are now the same. Quit.");
-		}
 	}
 }
